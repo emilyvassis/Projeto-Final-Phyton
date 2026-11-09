@@ -1,0 +1,32 @@
+[
+    {
+        "titulo": "A culpa é das estrelas",
+        "autor": "John Green",
+        "ano": 2012,
+        "disponivel": "Sim"
+    },
+    {
+        "titulo": "Corte de espinhos e rosas",
+        "autor": "Sarah J. Maas",
+        "ano": 2015,
+        "disponivel": "Sim"
+    },
+    {
+        "titulo": "O silo",
+        "autor": "Hugh Howey",
+        "ano": 2011,
+        "disponivel": "Sim"
+    },
+    {
+        "titulo": "O cacador de pipas",
+        "autor": "Khaled Hosseini",
+        "ano": 2003,
+        "disponivel": "Sim"
+    },
+    {
+        "titulo": "O pequeno principe",
+        "autor": "Antoine de Saint-Exupéry",
+        "ano": 1943,
+        "disponivel": "Sim"
+    }
+]
